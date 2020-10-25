@@ -3,7 +3,7 @@
 package main
 
 import "fmt"
-import "bitbucket.org/taruti/mimemagic"
+import "github.com/signal-golang/mimemagic"
 import "os"
 
 func main() {
